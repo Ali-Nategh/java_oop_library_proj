@@ -1,0 +1,6 @@
+Rostam'sSevenLabours,Ferdowsi,Epic,1,15
+KalilaAndDemna,IbnAl-Muqaffa,Fiction,2,15
+GoneWithTheWind,MargaretMitchell,Romance,3,15
+AnimalFarm,GeorgeOrwell,PoliticalSatire,4,15
+TheGreatGatsby,FScottFitzgerald,Tragedy,5,15
+OutOfNames,AliNategh,Nice,69,420
